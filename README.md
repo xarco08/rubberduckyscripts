@@ -1,2 +1,2 @@
 # rubberduckyscripts
-rubber ducky scripts educational purposes only
+rubber ducky scripts I made. educational purposes only
